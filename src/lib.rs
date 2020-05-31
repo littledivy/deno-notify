@@ -1,3 +1,6 @@
+// lib.rs
+// deno-notify - cross platform desktop notifcations for Deno
+
 mod notify;
 
 // use deno_core and futures
