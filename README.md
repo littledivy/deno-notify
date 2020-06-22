@@ -20,6 +20,10 @@ import Notify from "mod.ts";
 Notify("Hello", "World! 🌍");
 ```
 
+#### Join Discord
+
+[![](https://discordapp.com/api/guilds/715564894904123424/widget.png?style=banner2)](https://discord.gg/uqywa4W)
+
 ## Contributing
 
 Contributions either in the form of pull requests or issues are always welcome.
